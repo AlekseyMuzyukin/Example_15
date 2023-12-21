@@ -65,6 +65,3 @@ def text_to_date(text):
 
 if __name__ == '__main__':
     print(text_to_date('3-й вто мая'))
-    # print(text_to_date('3-й вторник марта'))
-    # print(text_to_date('5-й понедельник сентября'))
-    # print(text_to_date('5-й четверг августа'))
